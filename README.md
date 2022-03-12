@@ -46,4 +46,4 @@ Flash Chat — это интернет-приложение для обмена 
 * Узнал о жизненном цикле приложения и о том, как использовать viewWillAppear или viewWillDisappear.
 * Как создать прямые переходы для навигации.
 
-<img src="https://user-images.githubusercontent.com/64682381/158036846-2d8474f4-0b4b-4ca3-a0cf-7763ec3d6c43.png" width="600">
+<img src="https://user-images.githubusercontent.com/64682381/158036846-2d8474f4-0b4b-4ca3-a0cf-7763ec3d6c43.png" width="500">
